@@ -1,0 +1,26 @@
+
+Conteudos no codigo
+
+
+
+Prisma > uma ORM, responsavel por fazer comunicação 
+com banco de dados
+
+Public > conteudos estaticos
+ex: imagens.
+
+
+Utilizamos: 
+javascript(linguagem de programação)
+React (biblioteca de javascript)
+NextJs(framework de javascript) 
+
+Biblioteca virtual: Mantine(v.6.0.19)
+
+Autenticação > NextAuth 
+
+CHECKLIST:
+
+[]git
+[]Typescript
+[]Metodologia agil: Scrum
